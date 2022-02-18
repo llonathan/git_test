@@ -1,1 +1,3 @@
 I'm adding more data randomly to practice my git abilities to increase the performance on my skills. 
+Now I added more data to this file to test out the mode of git commit described in the lesson.
+I did not get it
